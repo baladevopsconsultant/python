@@ -11,7 +11,7 @@ def makefolders(dest,subfolders):
             data.write("New file added under subfolder \n")
 
 if __name__ == "__main__":
-    dest='/home/kbalasubramani/python'
+    dest='/home/ansible/python'
     subfolders=('Numbers/Folder_1/', 'Letters/Folder_2/', 'Letters/Folder_3/')
     makefolders(dest,subfolders)
     
