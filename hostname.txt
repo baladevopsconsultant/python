@@ -1,0 +1,11 @@
+   Static hostname: terraform-maa-01
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: a3d3fbec72874e678a2395a6403b4ad3
+           Boot ID: bfd14574d82f47338108f4cff92b3f4b
+    Virtualization: vmware
+  Operating System: CentOS Linux 7 (Core)
+       CPE OS Name: cpe:/o:centos:centos:7
+            Kernel: Linux 3.10.0-514.16.1.el7.x86_64
+      Architecture: x86-64
+
