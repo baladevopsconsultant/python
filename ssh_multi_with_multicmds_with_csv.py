@@ -56,3 +56,4 @@ def multissh():
             wr.writerow(stripped_line)
 #            wr.writerow(cmd_result)
 if __name__ == '__main__':
+    multissh()
