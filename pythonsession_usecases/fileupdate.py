@@ -10,4 +10,5 @@ if __name__ == "__main__":
     import sys
     value=sys.argv[1]
     value=int(value)
+    value= value + 1
     fileadd(1,value)
